@@ -4,14 +4,18 @@
 }
 
 body{
-    background-color: #ffffff;
+    background-color: #adb3bba4;
 }  
 
 main{
-    background-color: #ffffff;
+    background-color: #cccfd6a4;
     width: 500px;
     height: 300px;
     margin: auto;
     padding: 10px
     box-shadow: 3px 3px 5px #0000003a;
+}
+
+img.lado{
+    float: right;
 }
